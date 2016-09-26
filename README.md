@@ -1,2 +1,2 @@
 # ApiRestOmei
-ApiRest de Omei Restaurante
+ApiRest de Omei
